@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hey, I'm Jonathan :wave:
+
+Backend developer. Into fiction, databases and niche wikipedia pages.
+
+Oh! And I'm looking for a job :grin:
+
+For fans of bullet points:
+- 3 years web dev experience (>2 professionally)
+- Ruby & Rails / Postgres / JS
+- excellent question asker and PR reviewer
+- independent learner (proudly self-taught :muscle:)
+- crystal clear communicator :gem:
+- (arguably) fun to work with
+
+:email:  jonosenior at gmail dot com
 
 <!--
 **jnsya/jnsya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

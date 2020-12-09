@@ -1,8 +1,10 @@
 ### Hey, I'm Jonathan :wave:
 
-Backend developer. Into fiction, databases and niche wikipedia pages.
+I'm a backend developer. I'm into fiction, databases and niche wikipedia pages.
 
 Oh! And I'm looking for a job :grin:
+
+My ideal next role: high-impact, intellectually challenging, surrounded by motivated colleagues.
 
 For fans of bullet points:
 - 3 years web dev experience (>2 professionally)

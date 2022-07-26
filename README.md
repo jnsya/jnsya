@@ -3,7 +3,6 @@
 I'm a backend developer. I'm into fiction, databases and niche wikipedia pages.
 
 For fans of bullet points:
-- 3 years web dev experience (>2 professionally)
 - Ruby & Rails / Postgres / JS
 - excellent question asker and PR reviewer
 - independent learner (proudly self-taught :muscle:)
